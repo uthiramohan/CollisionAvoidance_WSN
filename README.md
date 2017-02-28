@@ -1,2 +1,2 @@
 # CollisionAvoidance_WSN
-Asystem to indicate arrival of ambulance, prevent collision support parking
+Asystem to indicate arrival of ambulance, prevent collision , provide parking assistance
